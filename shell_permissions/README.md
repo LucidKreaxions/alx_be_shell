@@ -1,5 +1,9 @@
-0-iam_betty: A script that switchs the current user to the user betty.
+These are scripts that:
 
-1-who_am_i: A script that prints the effective username of the current user.
+0-iam_betty: switches the current user to the user betty.
 
-4-empty: A script that creates an empty file called hello.
+1-who_am_i: prints the effective username of the current user.
+
+4-empty: creates an empty file called hello.
+
+5-execute: adds execute permission to the owner of the file hello 

@@ -8,4 +8,6 @@ These are scripts that:
 
 5-execute: adds execute permission to the owner of the file hello.
 
-6-multiple_permissions: add execute permission to owner & group owner, read permission to others to file hello. 
+6-multiple_permissions: add execute permission to owner & group owner, read permission to others to file hello.
+
+9-John_Doe: sets the mode of a file to -rwxr-x-wx 
